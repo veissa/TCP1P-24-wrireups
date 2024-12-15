@@ -1,0 +1,16 @@
+Read the rules!
+
+
+Solution : 
+
+we got to the rules page : 
+
+we find 
+"
+Rule #5
+
+All flags must respect this format: TFCCTF{anything_goes_here} unless specified otherwise.
+
+Example flag: TFCCTF{M4ny_ch4ng3s...m0r3_3ff0rt}"
+
+SO the flag is : TFCCTF{M4ny_ch4ng3s...m0r3_3ff0rt}

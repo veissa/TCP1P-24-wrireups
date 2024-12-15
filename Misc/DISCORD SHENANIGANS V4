@@ -1,0 +1,30 @@
+CTF text :
+
+Ahhh... the old flag-in-the-Discord challenge. The shenanigans are back, let's hope it goes well! Go to #bot-commands!
+
+Flag format: TFCCTF{secret_message_in_the_discord}
+
+Solution : 
+
+1- Go to the #bot-commands section in the discord
+2- enter the command /flag
+3- the bot always responds with the same 3 texts : 
+- It's not here... Oh wait, it actually is ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​   
+- I'm sure it's here somewhere. ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​   
+- Hmm, yep, definitely here. ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​   
+They may seem different but they are actually the same , instead of using the ctrl+c & ctrl+v to copy-past these texts , let us use the built in copy text in the github
+but clicking left and oppening the menu of choices we should see "Copy Text" and as soon as we do that , let's past it somewhere , here for example :
+"
+It's not here... Oh wait, it actually is ||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||
+||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​
+||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​
+||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||
+​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​|| _ _ _ _ _ _  add this to the format: zoo_wee_mama"
+
+???? DID YOU SEE THAT ????? 
+HOW DID IT HAPPEN ?! 
+easy easy , what is important now is that we have a clue , it literally says "add this to the format: zoo_wee_mama" ,
+we know the flag format is : TFCCTF{secret_message_in_the_discord} 
+so adding it to it would be : TFCCTF{zoo_wee_mama}
+/ BINGO YOU GOT IT RIGHT /
+<!-- Bruh why did it have to be zoo_wee_mama hahaha -->
